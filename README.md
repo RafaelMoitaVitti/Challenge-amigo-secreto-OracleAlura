@@ -6,7 +6,8 @@
 <h2> Vídeo da Usabilidade</h2>
 <p>Neste vídeo abaixo apresento para vocês o uso do site que realiza o sorteio de um amigo secreto.</p>
 
-https://youtu.be/8i5d9Y96u7s
+<img src="https://youtu.be/8i5d9Y96u7s">
+
 
 ##  Tecnologias
 <div>
