@@ -4,7 +4,9 @@
 <p>Challenge do Programa Oracle One e Alura. Desenvolvido para aprofundar os conhecimentos em programação.</p>
 
 <h2> Vídeo da Usabilidade</h2>
-<p>Neste vídeo apresento para vocês o uso do site que realiza o sorteio de um amigo secreto.</p>
+<p>Neste vídeo abaixo apresento para vocês o uso do site que realiza o sorteio de um amigo secreto.</p>
+
+https://youtu.be/8i5d9Y96u7s
 
 ##  Tecnologias
 <div>
