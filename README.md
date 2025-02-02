@@ -3,8 +3,8 @@
 <h2> Sobre</h2>
 <p>Challenge do Programa Oracle One e Alura. Desenvolvido para aprofundar os conhecimentos em programação.</p>
 
-<h2> Sobre</h2>
-<p>Challenge do Programa Oracle One e Alura. Desenvolvido para aprofundar os conhecimentos em programação.</p>
+<h2> Vídeo da Usabilidade</h2>
+<p>Neste vídeo apresento para vocês o uso do site que realiza o sorteio de um amigo secreto.</p>
 
 ##  Tecnologias
 <div>
